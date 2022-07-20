@@ -32,6 +32,7 @@ li[aria-hidden='false'] { display:block ; }
   overflow: hidden;
   width: 1px;
   height: 1px;
+  display: block;
   color: transparent;
   position: absolute;
 }
