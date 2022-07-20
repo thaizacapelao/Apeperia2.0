@@ -27,4 +27,4 @@ Site comercial com acessibilidade inclusiva para PcD's desenvolvido para montage
 
 ## 🔖 Layout:
 
-Você pode visualizar o layout do projeto através [desse link](#).
+Você pode visualizar o layout do projeto através [desse link](https://thaizacapelao.github.io/Apeperia2.0/).
