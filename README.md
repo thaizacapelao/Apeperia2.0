@@ -16,8 +16,9 @@ Site comercial com acessibilidade inclusiva para PcD's desenvolvido para montage
 -   [ ] Aplicação de unidades relativas EM, REM e variáveis do CSS;
 -   [ ] Utilização de unidades de viewport e media queries;
 -   [ ] Melhoria e teste do site usando leitores de tela (NVDA);
--   [ ] Deixando o projeto mais inclusivo;
+-   [ ] Deixando os formulários mais inclusivos;
 -   [ ] Uso da ferramenta WAI-ARIA;
+-   [ ] Aplicando atributos lang e alt; 
 
 
 ## ✨ Linguagens utilizadas:
