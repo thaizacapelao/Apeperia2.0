@@ -17,6 +17,7 @@ Site comercial com acessibilidade inclusiva para PcD's desenvolvido para montage
 -   [ ] Utilização de unidades de viewport e media queries;
 -   [ ] Melhoria e teste do site usando leitores de tela (NVDA);
 -   [ ] Deixando o projeto mais inclusivo;
+-   [ ] Uso da ferramenta WAI-ARIA;
 
 
 ## ✨ Linguagens utilizadas:
